@@ -1,6 +1,5 @@
 ### Hi 👋🏻, I'm Silvia!
 I'm a 25-year-old developer based in Italy, ready to turn ideas into code 💻🚀
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=silvialaserra&label=Profile%20views&color=0e75b6&style=flat" alt="silvialaserra" /> </p>-->
 
 - 🔭 I’m currently working on my [portfolio site](#)
 
@@ -30,6 +29,7 @@ I'm a 25-year-old developer based in Italy, ready to turn ideas into code 💻�
 **Others:** `Scrum` `Blender`
 
 <br>
+<!--LINGUAGGI PIU' USATI-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvialaserra&show_icons=true&locale=en&layout=compact" alt="silvialaserra" /></p>
 
 <!--
