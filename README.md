@@ -21,7 +21,7 @@ I'm a 25-year-old developer based in Italy, ready to turn ideas into code! 💻�
 ## 📦 Toolbox
 **Frontend Development:** `HTML` `CSS` `JavaScript` `Bootstrap`
 
-**Version Control:** `Git` `GitLab`
+**Version Control:** `Git` `GitHub`
 
 **Backend Development:** `Java` `Spring Tool`
 
