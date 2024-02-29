@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Silvia!</h1>
-<h3>A passionate backend developer from Italy, ready to ready to turn ideas into code! 💻🚀</h3>
+I'm a 25-year-old developer based in Italy, ready to turn ideas into code! 💻🚀</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silvialaserra&label=Profile%20views&color=0e75b6&style=flat" alt="silvialaserra" /> </p>
 
 - 🔭 I’m currently working on my [portfolio site](#)
