@@ -1,5 +1,5 @@
 ### Hi 👋🏻, I'm Silvia!
-I'm a 25-year-old developer based in Italy, ready to turn ideas into code! 💻🚀
+I'm a 25-year-old developer based in Italy, ready to turn ideas into code 💻🚀
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=silvialaserra&label=Profile%20views&color=0e75b6&style=flat" alt="silvialaserra" /> </p>-->
 
 - 🔭 I’m currently working on my [portfolio site](#)
