@@ -33,18 +33,8 @@ I'm a 25-year-old developer based in Italy, ready to turn ideas into code ğŸ’»ğŸ
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvialaserra&show_icons=true&locale=en&layout=compact" alt="silvialaserra" /></p>
 
 <!--
-TROFEI
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvialaserra" alt="silvialaserra" /></a> </p>
--->
-
-<!--
-KO-FI
+KO-FI BUTTON
 <p><a href="https://ko-fi.com/silvialaserra"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi" /></a></p><br><br>
--->
-
-<!--
-GENERATOR PROFILO
-https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 
 <!---
