@@ -22,7 +22,7 @@ I'm a 25-year-old developer based in Italy, ready to turn ideas into code ğŸ’»ğŸ
 
 **Version Control:** `Git` `GitHub`
 
-**Backend Development:** `Java` `Spring Tool`
+**Backend Development:** `Java` `Spring Boot`
 
 **Database:** `MySQL`
 
