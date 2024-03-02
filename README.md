@@ -15,8 +15,6 @@ I'm a 25-year-old developer based in Italy, ready to turn ideas into code 💻�
 
 <!--- 💬 Ask me about **asd**-->
 
-- 📫 How to reach me **silvialaserra1998@gmail.com**
-
 ## 📦 Toolbox
 **Frontend Development:** `HTML` `CSS` `JavaScript` `Bootstrap`
 
