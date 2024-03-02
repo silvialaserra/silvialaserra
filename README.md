@@ -1,21 +1,21 @@
 ### Hi 👋🏻, I'm Silvia!
 I'm a 25-year-old developer based in Italy, ready to turn ideas into code 💻🚀
 
-- 🔭 I’m currently working on my [portfolio site](#)
+- 🔭 I’m currently working on my [portfolio site]()
 
-<!--- 🌱 I’m currently learning **asd**-->
+- 🌱 I’m currently strengthening my **JavaScript** knowledge
 
 <!--- 👯 I’m looking to collaborate on [project](#)-->
 
 <!--- 🤝 I’m looking for help with [project](#)-->
 
-<!--- 👨‍💻 All of my projects are available at [asd](asd)-->
+<!--- 👨‍💻 All of my projects are available at [silvialaserra.it](silvialaserra.it)-->
 
 <!--- 📝 I regularly write articles on [asd](asd)-->
 
 <!--- 💬 Ask me about **asd**-->
 
-<!--- 📫 How to reach me **asd**-->
+- 📫 How to reach me **silvialaserra1998@gmail.com**
 
 ## 📦 Toolbox
 **Frontend Development:** `HTML` `CSS` `JavaScript` `Bootstrap`
