@@ -1,9 +1,9 @@
 ### Hi 👋🏻, I'm Silvia!
 I'm a 25-year-old developer based in Italy, ready to turn ideas into code 💻🚀
 
-- 🔭 I’m currently working on my [portfolio site]()
+- 🔭 I’m currently working on my [portfolio site (not online yet)]()
 
-- 🌱 I’m currently strengthening my **JavaScript** knowledge
+- 🌱 I’m currently strengthening my **Java** knowledge
 
 <!--- 👯 I’m looking to collaborate on [project](#)-->
 
