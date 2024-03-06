@@ -29,7 +29,7 @@ I'm a 25-year-old developer based in Italy, ready to turn ideas into code ğŸ’»ğŸ
 
 
 <!--CODEWARS-->
-<p><img align="center" src="https://www.codewars.com/users/silvialaserra/badges/micro" alt="silvialaserra" /></p>
+<p><img align="center" src="https://www.codewars.com/users/silvialaserra/badges/small" alt="silvialaserra" /></p>
 
 <!--LINGUAGGI PIU' USATI-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvialaserra&show_icons=true&locale=en&layout=compact" alt="silvialaserra" /></p>
